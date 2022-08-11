@@ -1,0 +1,28 @@
+body{
+    background-color: #121212;
+}
+
+a{
+    border: 0;
+}
+
+.nav_bg{
+    background-color: #000000;
+}
+
+.container{
+    background-color: #121212;
+}
+
+.instagram_logo{
+    margin-left: 15%;
+}
+
+#navBarSearchForm{
+    width: 260px !important;
+}
+
+#text_havaforum{
+    margin-left: 3mm;
+    margin-top: 4mm !important;
+}
